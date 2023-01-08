@@ -4,7 +4,3 @@
 - 🌱 I’m currently learning **Python, C, PHP, HTML, CSS, C++, C#**
 
 - ⚡ Fun fact **Im a weaboo, gym-rat and programmer LOL**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
